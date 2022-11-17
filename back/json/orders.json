@@ -1,0 +1,9 @@
+{"precioItems" : 270000,"precioImpuesto" : 0.14,"precioEnvio" : 0,"precioTotal" : 39000,
+"Items" : [{"producto" : "63513298109735e58d94ade0","nombre" : "java 3 backend",
+"precio" : 27000,"imagen" : "https://www.maintecsolutions.com/blog/wp-content/uploads/2022/02/web-app-develpomentf.png",
+"cantidad" : 1}],
+"envioInfo" : {"direccion" : "calle 30 san pacho","ciudad" : "Bucaramanga","telefono" : 5555551234,
+"departamento" : "Santander"},
+"pagoInfo" : {"id" : "","estado": "exitoso"}}  
+
+
